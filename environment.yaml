@@ -1,0 +1,9 @@
+name: assignment7-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - ipykernel
+prefix: C:\Users\jlcod\miniconda3\envs\assignment7-env
